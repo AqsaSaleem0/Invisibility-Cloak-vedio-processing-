@@ -26,7 +26,7 @@ output/
 results/
 
 # YOLOv5 files to ignore (except best.py)
-yolov5/*
+yolov5/
 !yolov5/best.py
 
 # Model weights/checkpoints
