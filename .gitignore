@@ -1,0 +1,48 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Notebooks & checkpoints
+.ipynb_checkpoints/
+
+# Dataset folders
+0_sample_vedio/
+1_dataset/
+2_training_dataset/
+
+yolov5-master/
+
+output_vedio.mp4
+output_vedio1.mp4
+vedio.zip
+vedio5.mp4
+vedio7.mp4
+# Output files & videos
+*.mp4
+*.avi
+*.mov
+output/
+results/
+
+# YOLOv5 files to ignore (except best.py)
+yolov5/*
+!yolov5/best.py
+
+# Model weights/checkpoints
+*.pt
+*.h5
+*.ckpt
+runs/
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
